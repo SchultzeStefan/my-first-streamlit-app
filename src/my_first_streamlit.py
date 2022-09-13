@@ -5,7 +5,6 @@ import json
 import streamlit as st
 import plotly.express as px
 import pydeck as pdk
-import matplotlib.pyplot as plt
 
 # load in data
 with open("./data/georef-switzerland-kanton.geojson") as response:
