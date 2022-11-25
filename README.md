@@ -1,4 +1,4 @@
-# Data Visualisation with Python of Renewable Energy Sources in Switzerland
+## Data Visualisation with Python of Renewable Energy Sources in Switzerland
 
 
 ![alternative text](reports/img/dashboard.jpg)
