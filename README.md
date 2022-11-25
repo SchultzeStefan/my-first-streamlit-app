@@ -3,7 +3,7 @@
 example image:
 
 
-![alternative text](reports/img/pic01.jpg)
+![alternative text](reports/img/dashboard.jpg)
 
 
 #### -- Project Status: [Completed]
