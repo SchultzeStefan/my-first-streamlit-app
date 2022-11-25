@@ -1,6 +1,4 @@
-# Project Name
-
-example image:
+# Data Visualisation of Renewable Energy Sources in Switzerland using Python
 
 
 ![alternative text](reports/img/dashboard.jpg)
